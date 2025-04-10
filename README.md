@@ -60,7 +60,7 @@ This JavaScript file contains all the functionality of the app. It includes:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/Udit-kasana/Expense-Tracker.git
 2. Navigate to the project folder:
 
     ```bash
